@@ -1,0 +1,44 @@
+h1{
+    font-weight: 900;
+    color: #f5f7f7;
+    background:blue;
+    text-align: center;
+    margin: 10px 400px 10px 400px;
+    border-top: 3px double white;
+    border-right: 3px double white;
+    border-bottom: 3px double white;
+    border-left: 3px double white; 
+}
+h2{
+    font-weight: bold;
+    color: rgb(20, 7, 199);
+}
+.top{
+    background:white;
+    text-align: center;
+    font-weight: bold;
+    font-style: initial;
+}
+h2{
+    margin: 20px 1000px 10px 30px;
+    background-color: white;
+}
+
+img{
+    margin: 10px 30px 10px;
+}
+.com{
+    font-size: 500;
+    font-weight: bold;
+}
+.cols{
+    display: flex;
+    margin: 0px auto;
+}
+.dic{
+    margin: 10px 10px 10px 30px;
+    font-size:large;
+}
+.list{
+    margin: 5px 10px 5px 0px;
+}
